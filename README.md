@@ -1,0 +1,2 @@
+# ouput.cpp
+output-ulangan
